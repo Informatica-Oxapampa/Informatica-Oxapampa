@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="276" viewBox="0 0 1280 276" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Distribución de lenguajes</title>
+  <desc id="descripcion">Proporción de cada lenguaje en el código publicado por la oficina.</desc>
+  <rect width="1280" height="276" rx="12" fill="#0A2A20"/>
+  <rect x="48" y="36" width="28" height="2" fill="#C9A227"/>
+  <text x="48" y="62" fill="#FFFFFF" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="0.4">Distribución en el código publicado</text>
+  <g transform="translate(48 92)">
+    <text x="0" y="4" fill="#E4F0EA" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="15">C#</text>
+    <rect x="200" y="-9" width="884" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.10"/>
+    <rect x="200" y="-9" width="840.2" height="10" rx="5" fill="#512BD4"/>
+    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">95.0%</text>
+  </g><g transform="translate(48 138)">
+    <text x="0" y="4" fill="#E4F0EA" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="15">Inno Setup</text>
+    <rect x="200" y="-9" width="884" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.10"/>
+    <rect x="200" y="-9" width="21.3" height="10" rx="5" fill="#0E7A52"/>
+    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">2.4%</text>
+  </g><g transform="translate(48 184)">
+    <text x="0" y="4" fill="#E4F0EA" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="15">Batchfile</text>
+    <rect x="200" y="-9" width="884" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.10"/>
+    <rect x="200" y="-9" width="15.6" height="10" rx="5" fill="#C1F12E"/>
+    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">1.8%</text>
+  </g><g transform="translate(48 230)">
+    <text x="0" y="4" fill="#E4F0EA" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="15">Rich Text Format</text>
+    <rect x="200" y="-9" width="884" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.10"/>
+    <rect x="200" y="-9" width="6.9" height="10" rx="5" fill="#0E7A52"/>
+    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">0.8%</text>
+  </g>
+</svg>
