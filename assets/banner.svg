@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Oficina de Tecnología de la Información</title>
+  <desc id="descripcion">Banner institucional de la Municipalidad Provincial de Oxapampa.</desc>
+
+  <defs>
+    <linearGradient id="lienzo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07231A"/>
+      <stop offset="1" stop-color="#0C3A2A"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.82" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#1FA97A" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#1FA97A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="puntos" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#39C79A" opacity="0.16"/>
+    </pattern>
+    <linearGradient id="desvanecer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#000000" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="mascara">
+      <rect width="1280" height="280" fill="url(#desvanecer)"/>
+    </mask>
+    <clipPath id="marco">
+      <rect width="1280" height="280" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#marco)">
+    <rect width="1280" height="280" fill="url(#lienzo)"/>
+    <rect width="1280" height="280" fill="url(#halo)"/>
+    <rect width="1280" height="280" fill="url(#puntos)" mask="url(#mascara)"/>
+
+    <g stroke="#39C79A" stroke-width="1.25" fill="none" opacity="0.30">
+      <path d="M902 78h96v62h84M902 202h96v-62h84M998 78v124"/>
+    </g>
+    <g fill="#39C79A" opacity="0.55">
+      <circle cx="902" cy="78" r="4.5"/>
+      <circle cx="902" cy="202" r="4.5"/>
+      <circle cx="998" cy="140" r="6"/>
+      <circle cx="1082" cy="140" r="4.5"/>
+    </g>
+    <g stroke="#C9A227" stroke-width="1.25" fill="none" opacity="0.35">
+      <path d="M1082 140h72"/>
+    </g>
+    <circle cx="1154" cy="140" r="5" fill="#C9A227" opacity="0.8"/>
+
+    <text x="72" y="106" fill="#C9A227" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3.6">MUNICIPALIDAD PROVINCIAL DE OXAPAMPA</text>
+
+    <text x="70" y="164" fill="#FFFFFF" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="42" font-weight="600">Oficina de Tecnología de la Información</text>
+
+    <rect x="72" y="192" width="56" height="2" fill="#C9A227"/>
+
+    <text x="72" y="228" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="16" letter-spacing="0.4">Transformación digital · Desarrollo de software</text>
+
+    <rect y="277" width="1280" height="3" fill="#C9A227"/>
+  </g>
+</svg>

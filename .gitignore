@@ -1,0 +1,5 @@
+# Perfil institucional — archivos que no se versionan
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
