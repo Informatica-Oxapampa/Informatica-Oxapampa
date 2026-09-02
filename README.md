@@ -36,9 +36,7 @@
 
 <br>
 
-<div align="center">
-  <img src="./assets/lenguajes.svg" width="100%" alt="Distribución de lenguajes en el código publicado">
-</div>
+
 
 <br>
 
@@ -57,9 +55,8 @@
     </td>
     <td valign="top">
       <h3><a href="https://github.com/Informatica-Oxapampa/Generador-de-Anexos">Generador de Anexos</a></h3>
-      <p>Aplicativo de escritorio para generar Términos de Referencia (TDR) y los Anexos N.° 06 al 09 de contratación de bienes y servicios menores.</p>
-      <p><sub><strong>C#</strong> · Actualizado el 02/09/2026</sub></p>
-      <p><code>winui3</code> <code>dotnet</code> <code>gobierno-digital</code></p>
+      <p>Aplicativo para agilizar la elaboración y generación de Términos de Referencia (TDR) y Anexos de la entidad.</p>
+      <p><sub>Actualizado el 01/09/2026</sub></p>
     </td>
   </tr>
 </table>
