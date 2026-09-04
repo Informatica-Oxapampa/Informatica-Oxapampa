@@ -7,18 +7,18 @@
   <g transform="translate(48 92)">
     <text x="0" y="4" fill="#E4F0EA" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="15">C#</text>
     <rect x="200" y="-9" width="884" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.10"/>
-    <rect x="200" y="-9" width="842.5" height="10" rx="5" fill="#512BD4"/>
-    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">95.3%</text>
+    <rect x="200" y="-9" width="841.4" height="10" rx="5" fill="#512BD4"/>
+    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">95.2%</text>
   </g><g transform="translate(48 138)">
     <text x="0" y="4" fill="#E4F0EA" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="15">Inno Setup</text>
     <rect x="200" y="-9" width="884" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.10"/>
-    <rect x="200" y="-9" width="20.2" height="10" rx="5" fill="#0E7A52"/>
-    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">2.3%</text>
+    <rect x="200" y="-9" width="19.9" height="10" rx="5" fill="#0E7A52"/>
+    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">2.2%</text>
   </g><g transform="translate(48 184)">
     <text x="0" y="4" fill="#E4F0EA" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="15">Batchfile</text>
     <rect x="200" y="-9" width="884" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.10"/>
-    <rect x="200" y="-9" width="14.8" height="10" rx="5" fill="#C1F12E"/>
-    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">1.7%</text>
+    <rect x="200" y="-9" width="16.2" height="10" rx="5" fill="#C1F12E"/>
+    <text x="1100" y="4" fill="#9FC4B4" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="14">1.8%</text>
   </g><g transform="translate(48 230)">
     <text x="0" y="4" fill="#E4F0EA" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="15">Rich Text Format</text>
     <rect x="200" y="-9" width="884" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.10"/>
