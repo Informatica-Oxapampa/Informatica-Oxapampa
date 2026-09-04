@@ -58,7 +58,7 @@
     <td valign="top">
       <h3><a href="https://github.com/Informatica-Oxapampa/Generador-de-Anexos">Generador de Anexos</a></h3>
       <p>Proyecto tecnológico institucional de la Municipalidad Provincial de Oxapampa.</p>
-      <p><sub><strong>C#</strong> · Actualizado el 03/09/2026</sub></p>
+      <p><sub><strong>C#</strong> · Actualizado el 04/09/2026</sub></p>
     </td>
   </tr>
 </table>
