@@ -45,7 +45,7 @@
 ## Proyectos
 
 <div align="center">
-  <sub>Revisión del catálogo · septiembre de 2026</sub>
+  <sub>Revisión del catálogo · octubre de 2026</sub>
 </div>
 
 ### En desarrollo y uso institucional
